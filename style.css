@@ -1,0 +1,53 @@
+
+.center{
+    text-align: center;
+}
+.option{
+    background-color:black;
+    color: white;
+    height: 40px;
+    border-radius:10px ;
+    padding-left: 10px;
+}
+.ques{
+    background-color: black;
+    color: white;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 10px;
+       
+}
+.option:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black;
+}
+.right{
+    text-align: right;
+}
+.active{
+    background-color: white;
+    color: black;
+}
+.margin{
+    padding-bottom: 20px;
+}
+.bg{
+    background-color: #36D0A7;
+}
+.hide{
+    display: none;
+}
+.btn{
+background-color: black !important;
+width: 80px !important;
+border: 1px solid black !important;
+}
+.btn:hover{
+    background-color: white !important;
+    
+    color: black !important;
+}
+.hea{
+    font-size: 60px;
+}
